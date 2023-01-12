@@ -8,3 +8,5 @@ Las ventajas de MirageJS no acaban ahí, ya que el código que se escriba con Mi
 No obstante, existen otras soluciones como Json-server, pero estas implican tener que levantar un servidor aparte, seguir sus convenciones para obtener los datos de los servicios, etc.
 
 Con MirageJS el control lo tiene el usuario por completo, lo cual lo convierte en una solución mucho más potente que las demás.
+
+![Layout](https://raw.githubusercontent.com/gogosms/AngularAndMirageJs/main/src/assets/layout.jpg)
